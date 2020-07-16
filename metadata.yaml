@@ -1,17 +1,22 @@
 _repo: Three-Bright-Girls-A-Story-of-Chance-and-Mischance_62631
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Parkinson, William, active 1883-1895
     alias: Parkinson, W. (William)
     gutenberg_agent_id: '44833'
     url: http://www.gutenberg.org/2009/agents/44833
+covers:
+- cover_type: archival
+  image_path: 62631-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Armstrong, Annie E.
     gutenberg_agent_id: '52044'
     url: http://www.gutenberg.org/2009/agents/52044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62631#Three-Bright-Girls-A-Story-of-Chance-and-Mischance
 gutenberg_issued: '2020-07-13'
 gutenberg_type: Text
 identifiers:
